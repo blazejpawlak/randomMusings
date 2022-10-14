@@ -1,5 +1,5 @@
 keyring==10.3.1
-cryptography==1.7.1
+cryptography==3.2
 Cython==0.25.2
 pyOpenSSL==17.0.0
 beautifulsoup4==4.6.0
@@ -11,7 +11,7 @@ ipaddr==2.1.11
 jsonschema==2.6.0
 mock==2.0.0
 nt==0.0.0
-numpy==1.13.0rc1
+numpy==1.22.2
 ordereddict==1.1
 org==1.0.0
 ping==0.2
