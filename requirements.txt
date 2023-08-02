@@ -1,5 +1,5 @@
 keyring==10.3.1
-cryptography==1.7.1
+cryptography==41.0.3
 Cython==0.25.2
 pyOpenSSL==17.0.0
 beautifulsoup4==4.6.0
